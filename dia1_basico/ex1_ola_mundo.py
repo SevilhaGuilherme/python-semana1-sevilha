@@ -1,0 +1,1 @@
+print("Olá Mundo!") #imprime uma mensagem na tela (contida dentro dos parenteses)
